@@ -1,4 +1,4 @@
-# 🏥 Healthcare Guardrails Assistant
+# Healthcare Guardrails Assistant
 
 A simple AI-powered Healthcare Assistant built using **LangChain**, **LangGraph**, and **OpenAI** to demonstrate how **Guardrails** can make AI applications safer and more reliable.
 
