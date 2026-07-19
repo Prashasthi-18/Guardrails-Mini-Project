@@ -1,6 +1,6 @@
 # Healthcare Guardrails Assistant
 
-A simple AI-powered Healthcare Assistant built using **LangChain**, **LangGraph**, and **OpenAI** to demonstrate how **Guardrails** can make AI applications safer and more reliable.
+A simple AI-powered Healthcare Assistant built using **LangChain**, **LangGraph**, and **MistralAI** to demonstrate how **Guardrails** can make AI applications safer and more reliable.
 
 This project showcases a multi-layer guardrail architecture, including input validation, PII protection, human approval, and output validation.
 
