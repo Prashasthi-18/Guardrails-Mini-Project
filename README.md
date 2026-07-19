@@ -51,7 +51,7 @@ Healthcare-Guardrails-Agent/
 * Python
 * LangChain
 * LangGraph
-* OpenAI GPT-4o Mini
+* Mistral AI - mistral-small-2506
 * Streamlit
 * Python Dotenv
 
